@@ -1,1 +1,2 @@
-# nationalities
+# insert mysql nationalities
+
